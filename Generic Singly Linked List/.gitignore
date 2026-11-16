@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Скомпилированные программы
+a.out
+linked_list
+*.o
+*.exe
+
+# Настройки редактора
+.vscode/

@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Скомпилированные программы
+a.out
+preprocessor
+*.o
+*.exe
+
+# Папка, которую создаёт Test()
+sources/
+
+# Настройки редактора
+.vscode/
